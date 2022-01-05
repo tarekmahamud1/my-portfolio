@@ -32,8 +32,45 @@ p{
      padding-bottom: 10%;
 }
 section{
-    display:flex;  
-    
+    display:flex;   
     background-image: url(pic3.jpg);
+    background-image: url();
+    background-image: linear-gradient(orange,pink);
     margin: 0%;
+    margin-bottom: 0px;
 }
+.b-class{
+
+    display:flex;   
+    background-image: url(pic3.jpg);
+    background-image: url();
+    background-image: linear-gradient(pink,orange);
+    margin-top: px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+}
+
+.three{
+    width: 80%;
+    padding-left:10%;
+   
+}
+.four
+{
+    width: 80%;
+    padding-right:10%;
+
+}
+.three img{
+    width:60%;
+}
+.hire-button-two{
+
+    background-image: linear-gradient(orange,pink);
+    padding:10px 30px;
+    text-decoration:none;
+    border-radius: 10px;
+    margin-left: 0%;
+    margin-top:20px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-weight:800;
